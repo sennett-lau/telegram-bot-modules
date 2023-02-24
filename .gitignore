@@ -1,0 +1,12 @@
+# Python Virtual Env
+venv
+vir
+
+# IdeaIDE
+.idea
+
+# VSCode
+.vscode
+
+# Enviorment variable
+.env
